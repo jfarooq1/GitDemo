@@ -14,5 +14,12 @@ public class AppiumTest {
 		
 		System.out.println("Appium Function 3");
 		
+		System.out.println("Appium Function 4");
+		
+		System.out.println("Appium Function 5");
+		
+		System.out.println("Appium Function 6");
+
+	
 	}
 }
