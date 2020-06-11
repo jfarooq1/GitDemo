@@ -24,6 +24,11 @@ public class AppiumTest {
 		//Architect Changes
 		
 		
+//////////
+		
+		//Architect Changes 2
+		
+		
 		
 	
 	}
