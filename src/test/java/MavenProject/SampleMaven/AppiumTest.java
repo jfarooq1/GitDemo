@@ -9,5 +9,10 @@ public class AppiumTest {
 	public void Appium_Function()
 	{
 		System.out.println("Appium Function");
+		
+		System.out.println("Appium Function 2");
+		
+		System.out.println("Appium Function 3");
+		
 	}
 }
