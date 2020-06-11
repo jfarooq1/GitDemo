@@ -19,7 +19,12 @@ public class AppiumTest {
 		System.out.println("Appium Function 5");
 		
 		System.out.println("Appium Function 6");
-
+//////////
+		
+		//Architect Changes
+		
+		
+		
 	
 	}
 }
